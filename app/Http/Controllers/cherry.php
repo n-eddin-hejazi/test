@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 class cherry extends Controller
 {
-    public function cherry2()
+    public function cherry()
     {
         
     }
